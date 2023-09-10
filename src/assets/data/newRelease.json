@@ -1,0 +1,983 @@
+{
+    "err": 0,
+    "msg": "Success",
+    "data": [
+        {
+            "encodeId": "Z6D89FB0",
+            "title": "Call Me",
+            "alias": "Call-Me-Wren-Evans-Itsnk",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Wren Evans, Itsnk",
+            "artists": [
+                {
+                    "id": "IW6BCICZ",
+                    "name": "Wren Evans",
+                    "link": "/Wren-Evans-IW6BCICZ",
+                    "spotlight": false,
+                    "alias": "Wren-Evans-IW6BCICZ",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/c/9/0/8c90a0d826a705c3d67c8045e7ea2e30.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/c/9/0/8c90a0d826a705c3d67c8045e7ea2e30.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "68BZI9C7"
+                },
+                {
+                    "id": "IW6W9ZAO",
+                    "name": "Itsnk",
+                    "link": "/nghe-si/Itsnk",
+                    "spotlight": false,
+                    "alias": "Itsnk",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/a/2/f/fa2faafc86d65a8cf9a288fb6a484419.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/a/2/f/fa2faafc86d65a8cf9a288fb6a484419.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "6UW9B9A8"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/3/3/e/833e8c663204235b77a6201e6d23cf41.jpg",
+            "link": "/bai-hat/Call-Me-Wren-Evans-Itsnk/Z6D89FB0.html",
+            "key": "kncGyZZzikESmBFymybGkHtLCidcQdLak",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/3/3/e/833e8c663204235b77a6201e6d23cf41.jpg",
+            "duration": 215,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1692032401,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+            ],
+            "distributor": "Universal Music Group",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": false,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6EIEC06",
+            "title": "Từ Nơi Tôi Sinh Ra",
+            "alias": "Tu-Noi-Toi-Sinh-Ra-Jack-J97",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Jack - J97",
+            "artists": [
+                {
+                    "id": "IW6WCI7U",
+                    "name": "Jack - J97",
+                    "link": "/Jack-J97",
+                    "spotlight": false,
+                    "alias": "Jack-J97",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/d/d/17ddb4f46bd67ac936d7ee1be469f45c.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/d/d/17ddb4f46bd67ac936d7ee1be469f45c.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZUDICAF0"
+                }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/b/e/1/3be1d9c58b0f37bff547b7ea4409115e.jpg",
+            "link": "/bai-hat/Tu-Noi-Toi-Sinh-Ra-Jack-J97/Z6EIEC06.html",
+            "key": "LmcHykkAixGdBiJymybHkmtZXiBNpczRc",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/b/e/1/3be1d9c58b0f37bff547b7ea4409115e.jpg",
+            "duration": 232,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693486802,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+            ],
+            "distributor": "MIXUS",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6EW06UZ",
+            "title": "Missing You",
+            "alias": "Missing-You-LyLy",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "LyLy",
+            "artists": [
+                {
+                    "id": "IW6WCUO8",
+                    "name": "LyLy",
+                    "link": "/Nguyen-Hoang-Ly",
+                    "spotlight": false,
+                    "alias": "Nguyen-Hoang-Ly",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/2/b/3/02b304b99bd227ac4043de31c3b4d1c4.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/2/b/3/02b304b99bd227ac4043de31c3b4d1c4.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "6UW9BB79"
+                }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/4/7/d/947d4ee49b602eea82500f1436982e8d.jpg",
+            "link": "/bai-hat/Missing-You-LyLy/Z6EW06UZ.html",
+            "key": "kHxmyLLlickHkLNynTbGZmTZhiVJQVvnL",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/4/7/d/947d4ee49b602eea82500f1436982e8d.jpg",
+            "duration": 272,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693486800,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+            ],
+            "distributor": "DAO Music Entertainment",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6E0E076",
+            "title": "Vô Tree",
+            "alias": "Vo-Tree-Keyo",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Keyo",
+            "artists": [
+                {
+                    "id": "IW6UF090",
+                    "name": "Keyo",
+                    "link": "/Keyo",
+                    "spotlight": false,
+                    "alias": "Keyo",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/2/a/e/c2aeb7b904bee3fad7cda30e7a646f95.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/2/a/e/c2aeb7b904bee3fad7cda30e7a646f95.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "6UW9BCDF"
+                }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/a/f/0/eaf0db3caee8cbd47ab7646073f51beb.jpg",
+            "link": "/bai-hat/Vo-Tree-Keyo/Z6E0E076.html",
+            "key": "ZHcnykkliadzumbTHTbnkmyZCidspxQQD",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/a/f/0/eaf0db3caee8cbd47ab7646073f51beb.jpg",
+            "duration": 223,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693483201,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+            ],
+            "distributor": "MIXUS",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6E0E069",
+            "title": "Yêu Hay Không Yêu",
+            "alias": "Yeu-Hay-Khong-Yeu-Pham-Dinh-Thai-Ngan",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Phạm Đình Thái Ngân",
+            "artists": [
+                {
+                    "id": "IWZAOADF",
+                    "name": "Phạm Đình Thái Ngân",
+                    "link": "/Pham-Dinh-Thai-Ngan",
+                    "spotlight": false,
+                    "alias": "Pham-Dinh-Thai-Ngan",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/7/4/e/274ecc48e031def45c109db3a5e54855.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/7/4/e/274ecc48e031def45c109db3a5e54855.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZOEWEZ7F"
+                }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/8/b/1/b8b1451c14d050fbeb8e94130eeb827e.jpg",
+            "link": "/bai-hat/Yeu-Hay-Khong-Yeu-Pham-Dinh-Thai-Ngan/Z6E0E069.html",
+            "key": "LmJnTZZziNdlcxuTmyFHZHyLCRdaQJWcL",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/8/b/1/b8b1451c14d050fbeb8e94130eeb827e.jpg",
+            "duration": 175,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693483200,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+            ],
+            "distributor": "Yin Yang Media",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6D688F9",
+            "title": "Land Of The Heroes (Arabic Version)",
+            "alias": "Land-Of-The-Heroes-Arabic-Version-Alan-Walker-Sophie-Stray-Zena-Emad",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Alan Walker, Sophie Stray, Zena Emad",
+            "artists": [
+                {
+                    "id": "IWZA6CCW",
+                    "name": "Alan Walker",
+                    "link": "/Alan-Walker",
+                    "spotlight": false,
+                    "alias": "Alan-Walker",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZWZCU89E"
+                },
+                {
+                    "id": "IW6WAFZU",
+                    "name": "Sophie Stray",
+                    "link": "/nghe-si/Sophie-Stray",
+                    "spotlight": false,
+                    "alias": "Sophie-Stray",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/8/3/f/e83f18e4aefb61e64b8bc444d4abd5e4.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/8/3/f/e83f18e4aefb61e64b8bc444d4abd5e4.jpg",
+                    "isOA": false,
+                    "isOABrand": false
+                },
+                {
+                    "id": "IW79ZFB7",
+                    "name": "Zena Emad",
+                    "link": "/nghe-si/Zena-Emad.IW79ZFB7",
+                    "spotlight": false,
+                    "alias": "Zena-Emad.IW79ZFB7",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                    "isOA": false,
+                    "isOABrand": false
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/3/f/a/e3fae8be61a2ac6de59f240a8a933737.jpg",
+            "link": "/bai-hat/Land-Of-The-Heroes-Arabic-Version-Alan-Walker-Sophie-Stray-Zena-Emad/Z6D688F9.html",
+            "key": "ZnxHTLZSRnpsLAWymtvHZnyZCiBJBiLLB",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/3/f/a/e3fae8be61a2ac6de59f240a8a933737.jpg",
+            "duration": 173,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693414800,
+            "genreIds": [
+                "IWZ9Z08O",
+                "IWZ9Z09A",
+                "IWZ9Z097"
+            ],
+            "distributor": "Route Note",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": false
+        },
+        {
+            "encodeId": "Z6EWII68",
+            "title": "Rush",
+            "alias": "Rush-Troye-Sivan-PinkPantheress-Hyunjin",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Troye Sivan, PinkPantheress, Hyunjin",
+            "artists": [
+                {
+                    "id": "IWZAWD00",
+                    "name": "Troye Sivan",
+                    "link": "/nghe-si/Troye-Sivan",
+                    "spotlight": false,
+                    "alias": "Troye-Sivan",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/2/4/e/524e69bd5a76ed11bb7cc1c4563ae189.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/2/4/e/524e69bd5a76ed11bb7cc1c4563ae189.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "ZOEWEZO0"
+                },
+                {
+                    "id": "IW6EUEOB",
+                    "name": "PinkPantheress",
+                    "link": "/nghe-si/PinkPantheress-IW6EUEOB",
+                    "spotlight": false,
+                    "alias": "PinkPantheress-IW6EUEOB",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/f/d/2/9fd2ac6bf39226da95ed5a14f6a002fd.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/f/d/2/9fd2ac6bf39226da95ed5a14f6a002fd.jpg",
+                    "isOA": false,
+                    "isOABrand": false
+                },
+                {
+                    "id": "IW8867ZZ",
+                    "name": "Hyunjin",
+                    "link": "/nghe-si/Hyunjin-Straykids",
+                    "spotlight": false,
+                    "alias": "Hyunjin-Straykids",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/d/3/f/ed3f09c9652373b3981d0ddb683b1fc7.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/d/3/f/ed3f09c9652373b3981d0ddb683b1fc7.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "6BCAD8DW"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/5/b/a/55bab3fb581595f35b700fc9744513d3.jpg",
+            "link": "/bai-hat/Rush-Troye-Sivan-PinkPantheress-Hyunjin/Z6EWII68.html",
+            "key": "ZmJntZZzEcLFRXJtmyDHLGTLhRBJBELSJ",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/5/b/a/55bab3fb581595f35b700fc9744513d3.jpg",
+            "duration": 172,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693414800,
+            "genreIds": [
+                "IWZ9Z08O",
+                "IWZ9Z097"
+            ],
+            "distributor": "Universal Music Group",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 2,
+            "streamPrivileges": [
+                2
+            ],
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": false
+        },
+        {
+            "encodeId": "Z6E0O8AZ",
+            "title": "AN",
+            "alias": "AN-Lil-Wuyn",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Lil Wuyn",
+            "artists": [
+                {
+                    "id": "IWZA77AI",
+                    "name": "Lil Wuyn",
+                    "link": "/nghe-si/Lil-Wuyn",
+                    "spotlight": false,
+                    "alias": "Lil-Wuyn",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/6/3/2/963289fb23282ee3df0decd23200daf7.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/6/3/2/963289fb23282ee3df0decd23200daf7.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "6B7W89ZC"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/b/1/9/2b1989e397432d1f088ab2dec40bed1f.jpg",
+            "link": "/bai-hat/AN-Lil-Wuyn/Z6E0O8AZ.html",
+            "key": "LnJmtZkzugiZRSLyHtDGkHyLXEdapJhZL",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/b/1/9/2b1989e397432d1f088ab2dec40bed1f.jpg",
+            "duration": 190,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693396800,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088",
+                "IWZ9Z089"
+            ],
+            "distributor": "Believe",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6EI06AW",
+            "title": "Children of the Sky (a Starfield song)",
+            "alias": "Children-of-the-Sky-a-Starfield-song-Imagine-Dragons",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Imagine Dragons",
+            "artists": [
+                {
+                    "id": "IWZ9A7UE",
+                    "name": "Imagine Dragons",
+                    "link": "/Imagine-Dragons",
+                    "spotlight": false,
+                    "alias": "Imagine-Dragons",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/f/c/c/5fcc7750b63aec3a6905d2623053096f.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/f/c/c/5fcc7750b63aec3a6905d2623053096f.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZOZA09UW"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/4/9/a/149a9e08c0be16c06de9d5bf4c21aac5.jpg",
+            "link": "/bai-hat/Children-of-the-Sky-a-Starfield-song-Imagine-Dragons/Z6EI06AW.html",
+            "key": "ZHxnyLLSiNlzCNztmtFHLGTkgidNWahiF",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/4/9/a/149a9e08c0be16c06de9d5bf4c21aac5.jpg",
+            "duration": 208,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693328400,
+            "genreIds": [
+                "IWZ9Z08O",
+                "IWZ9ZIUO"
+            ],
+            "distributor": "Universal Music Group",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 2,
+            "streamPrivileges": [
+                2
+            ],
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": false
+        },
+        {
+            "encodeId": "Z6EIWBDD",
+            "title": "Demons",
+            "alias": "Demons-Doja-Cat",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Doja Cat",
+            "artists": [
+                {
+                    "id": "IWZAZ9I9",
+                    "name": "Doja Cat",
+                    "link": "/nghe-si/Doja-Cat",
+                    "spotlight": false,
+                    "alias": "Doja-Cat",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/9/0/0/c900dfce119d1361c4dcca7f512c277e.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/9/0/0/c900dfce119d1361c4dcca7f512c277e.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "6UB6A87I"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/2/1/4/9214ca6c07226442a9dc9717f1d141d4.jpg",
+            "link": "/bai-hat/Demons-Doja-Cat/Z6EIWBDD.html",
+            "key": "ZnxmtkLAiaQzvmQyHyFHkntZhudNWcCJL",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/2/1/4/9214ca6c07226442a9dc9717f1d141d4.jpg",
+            "duration": 196,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693328400,
+            "genreIds": [
+                "IWZ9Z08O",
+                "IWZ9Z09B",
+                "IWZ9Z097"
+            ],
+            "distributor": "Sony Music Entertainment",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 2,
+            "streamPrivileges": [
+                2
+            ],
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": false
+        },
+        {
+            "encodeId": "Z6DW089C",
+            "title": "Ngôi Nhà",
+            "alias": "Ngoi-Nha-Trang",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Trang",
+            "artists": [
+                {
+                    "id": "IWZAW98Z",
+                    "name": "TRANG",
+                    "link": "/TRANG-VN",
+                    "spotlight": false,
+                    "alias": "TRANG-VN",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/1/1/7/e117be1b2a2741977b5ed6a853be4567.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/1/1/7/e117be1b2a2741977b5ed6a853be4567.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZO698UBB"
+                }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/f/a/6/2fa6b345089b7f8d0f2f4f7487cd9a69.jpg",
+            "link": "/bai-hat/Ngoi-Nha-Trang/Z6DW089C.html",
+            "key": "LGJnyLLzxaXvLzHtHyDHZHtLhidcduBWh",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/f/a/6/2fa6b345089b7f8d0f2f4f7487cd9a69.jpg",
+            "duration": 218,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1691427600,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088",
+                "IWZ97FCD"
+            ],
+            "distributor": "VIEENT Music",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6E0O7DA",
+            "title": "emconnho ... ???",
+            "alias": "emconnho-Hoang-Ton",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hoàng Tôn",
+            "artists": [
+                {
+                    "id": "IWZ97ZZC",
+                    "name": "Hoàng Tôn",
+                    "link": "/Hoang-Ton",
+                    "spotlight": false,
+                    "alias": "Hoang-Ton",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/e/1/f/ee1faaf62fb8b2c2882d25bbaa6a851d.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/e/1/f/ee1faaf62fb8b2c2882d25bbaa6a851d.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZWZAC6AE"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/f/7/b/2f7b4e9dcd4e4a383aa94bcfbb84024f.jpg",
+            "link": "/bai-hat/emconnho-Hoang-Ton/Z6E0O7DA.html",
+            "key": "kmxmykZzigRZNdxymtDHLGtkhRBapJNJR",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/f/7/b/2f7b4e9dcd4e4a383aa94bcfbb84024f.jpg",
+            "duration": 290,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693242000,
+            "genreIds": [
+                "IWZ9Z08I"
+            ],
+            "distributor": "Believe",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": true
+        },
+        {
+            "encodeId": "Z6E0ZI9U",
+            "title": "Anh Đâu Muốn Thấy Em Buồn",
+            "alias": "Anh-Dau-Muon-Thay-Em-Buon-Chau-Khai-Phong-ACV",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Châu Khải Phong, ACV",
+            "artists": [
+                {
+                    "id": "IWZ976C7",
+                    "name": "Châu Khải Phong",
+                    "link": "/Chau-Khai-Phong",
+                    "spotlight": false,
+                    "alias": "Chau-Khai-Phong",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/9/a/e/c9aecf4e016a9f4f325251c05c4cda03.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/9/a/e/c9aecf4e016a9f4f325251c05c4cda03.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZWZBOD66"
+                },
+                {
+                    "id": "IW6ZAAB8",
+                    "name": "ACV",
+                    "link": "/nghe-si/ACV-Music",
+                    "spotlight": false,
+                    "alias": "ACV-Music",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/e/0/6/5e06d48fb79175a096e059ecf3d8b1e8.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/e/0/6/5e06d48fb79175a096e059ecf3d8b1e8.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "6UW9CWC9"
+                }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/d/0/0/1d0055b67678494b663fb29eae6a082c.jpg",
+            "link": "/bai-hat/Anh-Dau-Muon-Thay-Em-Buon-Chau-Khai-Phong-ACV/Z6E0ZI9U.html",
+            "key": "LmxHykLSRhuJBvzyHTFmZHyLhidsWXJlZ",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/d/0/0/1d0055b67678494b663fb29eae6a082c.jpg",
+            "duration": 298,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693227600,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+            ],
+            "distributor": "MIXUS",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6D0OZA8",
+            "title": "The Sun",
+            "alias": "The-Sun-hooligan",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "hooligan.",
+            "artists": [
+                {
+                    "id": "IW6UZWIF",
+                    "name": "hooligan.",
+                    "link": "/nghe-si/hooligan-VN",
+                    "spotlight": false,
+                    "alias": "hooligan-VN",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/1/d/7/e1d77d8fe1f71e15550f37b69fe19e43.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/1/d/7/e1d77d8fe1f71e15550f37b69fe19e43.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "6UW9BC9O"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/d/c/a/fdca0629898cb207f4baab84725e4b51.jpg",
+            "link": "/bai-hat/The-Sun-hooligan/Z6D0OZA8.html",
+            "key": "ZncmykkzxXzvCHGTGTvGkmtZgRdcduzzs",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/d/c/a/fdca0629898cb207f4baab84725e4b51.jpg",
+            "duration": 234,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1691600400,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ9Z088",
+                "IWZ97FCD"
+            ],
+            "distributor": "Sony Music Entertainment",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 2,
+            "streamPrivileges": [
+                2
+            ],
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6DBI89C",
+            "title": "Làm Sao Để Em Biết",
+            "alias": "Lam-Sao-De-Em-Biet-Khai-Dang",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Khải Đăng",
+            "artists": [
+                {
+                    "id": "IWZA76EE",
+                    "name": "Khải Đăng",
+                    "link": "/Khai-Dang",
+                    "spotlight": false,
+                    "alias": "Khai-Dang",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/0/a/9/10a9a536eb062f6adc1f717740cd4155.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/0/a/9/10a9a536eb062f6adc1f717740cd4155.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZOEWEZCO"
+                }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/0/e/f/80ef2e1879fb69f1681dc07cfbc34954.jpg",
+            "link": "/bai-hat/Lam-Sao-De-Em-Biet-Khai-Dang/Z6DBI89C.html",
+            "key": "kHcHTLkAidQXHhGymyFmZHTZhRdsQxxid",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/0/e/f/80ef2e1879fb69f1681dc07cfbc34954.jpg",
+            "duration": 216,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1693137600,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+            ],
+            "distributor": "MIXUS",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6DUCUBW",
+            "title": "Trở Thành Phu Thê",
+            "alias": "Tro-Thanh-Phu-The-Huong-Ly",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Hương Ly",
+            "artists": [
+                {
+                    "id": "IW6ZO9UB",
+                    "name": "Hương Ly",
+                    "link": "/Nguyen-Huong-Ly",
+                    "spotlight": false,
+                    "alias": "Nguyen-Huong-Ly",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/1/e/b/41eb46ee5f7846ea125adb1dc6141524.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/1/e/b/41eb46ee5f7846ea125adb1dc6141524.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZZ67898D"
+                }
+            ],
+            "isWorldWide": true,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/c/f/6/0cf6e52e5b81c1f251a4aeb876467373.jpg",
+            "link": "/bai-hat/Tro-Thanh-Phu-The-Huong-Ly/Z6DUCUBW.html",
+            "key": "kmcHtZZAJizkBCvtHyFHLnTZCRBcVEQlB",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/c/f/6/0cf6e52e5b81c1f251a4aeb876467373.jpg",
+            "duration": 187,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1691668800,
+            "genreIds": [
+                "IWZ9Z08I",
+                "IWZ97FCD"
+            ],
+            "distributor": "MIXUS",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "allowAudioAds": true,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6DEZCAZ",
+            "title": "THE GIRLS (BLACKPINK THE GAME OST)",
+            "alias": "THE-GIRLS-BLACKPINK-THE-GAME-OST-BLACKPINK",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "BLACKPINK",
+            "artists": [
+                {
+                    "id": "IWZA7DE0",
+                    "name": "BLACKPINK",
+                    "link": "/nghe-si/BLACKPINK",
+                    "spotlight": false,
+                    "alias": "BLACKPINK",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "ZOZ9UA7E"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/2/7/7/427767fb4437a894695bbf3b17d2a907.jpg",
+            "link": "/bai-hat/THE-GIRLS-BLACKPINK-THE-GAME-OST-BLACKPINK/Z6DEZCAZ.html",
+            "key": "LHJnykZSEWsmHxpTHtDmZmyZhidsWJRSW",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/2/7/7/427767fb4437a894695bbf3b17d2a907.jpg",
+            "duration": 162,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1692896402,
+            "genreIds": [
+                "IWZ9Z08W"
+            ],
+            "distributor": "YG PLUS",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 1,
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": false,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6DE7ZFU",
+            "title": "Used To Be Young",
+            "alias": "Used-To-Be-Young-Miley-Cyrus",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Miley Cyrus",
+            "artists": [
+                {
+                    "id": "IWZ9ZO96",
+                    "name": "Miley Cyrus",
+                    "link": "/Miley-Cyrus",
+                    "spotlight": false,
+                    "alias": "Miley-Cyrus",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/8/a/0/b8a03e4111b611fedfec6346559d96c9.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/8/a/0/b8a03e4111b611fedfec6346559d96c9.jpg",
+                    "isOA": true,
+                    "isOABrand": false,
+                    "playlistId": "ZWZAE9OD"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/a/9/7/9a974dc736179205d87d5e68ee776bf0.jpg",
+            "link": "/bai-hat/Used-To-Be-Young-Miley-Cyrus/Z6DE7ZFU.html",
+            "key": "kHxnyZLlEQahQCSyHtFHZmyLhidspcEsF",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/a/9/7/9a974dc736179205d87d5e68ee776bf0.jpg",
+            "duration": 191,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1692896401,
+            "genreIds": [
+                "IWZ9Z08O",
+                "IWZ9Z097"
+            ],
+            "distributor": "Sony Music Entertainment",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 2,
+            "streamPrivileges": [
+                2
+            ],
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": false,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6DD7WAF",
+            "title": "Winner",
+            "alias": "Winner-Conan-Gray",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Conan Gray",
+            "artists": [
+                {
+                    "id": "IW6WB70A",
+                    "name": "Conan Gray",
+                    "link": "/nghe-si/Conan-Gray",
+                    "spotlight": false,
+                    "alias": "Conan-Gray",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/1/0/6/81069685c70817df7e453e2b1686f5b4.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/1/0/6/81069685c70817df7e453e2b1686f5b4.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "689U9COB"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/2/5/5/5255481411fec2d6a1bb507e66dce5ca.jpg",
+            "link": "/bai-hat/Winner-Conan-Gray/Z6DD7WAF.html",
+            "key": "LHcHtkkSipLnLEktmyvHLHTkhRVsWciRF",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/2/5/5/5255481411fec2d6a1bb507e66dce5ca.jpg",
+            "duration": 217,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1692896400,
+            "genreIds": [
+                "IWZ9Z08O",
+                "IWZ9Z097"
+            ],
+            "distributor": "Universal Music Group",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 2,
+            "streamPrivileges": [
+                2
+            ],
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": false,
+            "hasLyric": true
+        },
+        {
+            "encodeId": "Z6D6DFD7",
+            "title": "Middle Ground",
+            "alias": "Middle-Ground-Maroon-5-Mickey-Guyton",
+            "isOffical": true,
+            "username": "",
+            "artistsNames": "Maroon 5, Mickey Guyton",
+            "artists": [
+                {
+                    "id": "IWZ9Z9DF",
+                    "name": "Maroon 5",
+                    "link": "/nghe-si/Maroon-5",
+                    "spotlight": false,
+                    "alias": "Maroon-5",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/7/5/3/375337f6d1cb508665d89f2e7d8fc51a.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/7/5/3/375337f6d1cb508665d89f2e7d8fc51a.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "ZWZAI969"
+                },
+                {
+                    "id": "IWZAZBCC",
+                    "name": "Mickey Guyton",
+                    "link": "/nghe-si/Mickey-Guyton",
+                    "spotlight": false,
+                    "alias": "Mickey-Guyton",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/b/2b38cbbd0c600e377aa6aec06f845a9e_1443617100.jpg",
+                    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/b/2b38cbbd0c600e377aa6aec06f845a9e_1443617100.jpg",
+                    "isOA": false,
+                    "isOABrand": false,
+                    "playlistId": "6UB6A8BB"
+                }
+            ],
+            "isWorldWide": false,
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/6/1/d/661d54fbabf090d1ab6aaa7b3e17d099.jpg",
+            "link": "/bai-hat/Middle-Ground-Maroon-5-Mickey-Guyton/Z6D6DFD7.html",
+            "key": "kHxHykkzumNidJByGtvnkmykXiBxVuXSz",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/6/1/d/661d54fbabf090d1ab6aaa7b3e17d099.jpg",
+            "duration": 220,
+            "zingChoice": false,
+            "isPrivate": false,
+            "preRelease": false,
+            "releaseDate": 1691686800,
+            "genreIds": [
+                "IWZ9Z08O",
+                "IWZ9Z097"
+            ],
+            "distributor": "Universal Music Group",
+            "indicators": [],
+            "isIndie": false,
+            "streamingStatus": 2,
+            "streamPrivileges": [
+                2
+            ],
+            "downloadPrivileges": [
+                3
+            ],
+            "allowAudioAds": false,
+            "hasLyric": true
+        }
+    ],
+    "timestamp": 1693561160267
+}

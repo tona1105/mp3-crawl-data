@@ -1,0 +1,61 @@
+#app {
+    background-color: #000000;
+}
+
+/* btn */
+
+.btn i {
+    color: azure;
+    font-size: 1.75rem;
+}
+.btn__purple{
+    background: #8B45CA !important;
+}
+
+.btn.btn__newReleaseBg {
+    background: #170F23;
+    color:white;
+}
+
+.btn.btn__newReleaseBg:hover {
+    background: #8B45CA;
+}
+
+/* NewRelease */
+.item__newRelease:hover {
+ background-color: #696969;
+}
+
+
+.bg-nav {
+    background-color: #121212;
+    border-radius: 1rem;
+}
+.bg-playlist {
+    background-color: #242424;
+}
+
+.footer {
+    color: #A7A7A7;
+    font-size: 0.75rem
+}
+
+
+.item__lineDown::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: rgb(139, 139, 139);
+}
+
+.item__lineDown2::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: rgb(139, 139, 139);
+    bottom: 10%;
+    left: 0;
+}
+/* ItemContent */
