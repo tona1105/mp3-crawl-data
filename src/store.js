@@ -5,7 +5,7 @@ Vue.use(Vuex)
 
 const store = new Vuex.Store({
   state: {
-    listPlay: null,
+    listPlay: [1],
     idPlay: -1
   },
   mutations: {
