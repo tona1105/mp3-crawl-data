@@ -102,7 +102,7 @@ export default {
             this.listItemKey = []
             const self = this // Lưu trữ ngữ cảnh của Vue 
             for (let item of this.listNewRelease) {
-                var url = `mp3.zing.vn${item.link}`
+                var url = `https://mp3.zing.vn${item.link}`
                 await axios.get(url)
                     .then(function (response) {
                         var html = response.data;
